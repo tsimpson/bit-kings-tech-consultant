@@ -3,48 +3,27 @@ templateKey: index-page
 title: Technical consulting for small businesses.
 image: /img/home-jumbotron.jpg
 heading: Technical consulting for small businesses.
-subheading: Support sustainable farming while enjoying a cup
+subheading: Make your business our priority
 mainpitch:
   title: Why BKTC
   description: >
-    BKTC is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Technology problems can have serious consequences for your company’s productivity, and we make it our goal to help you avoid that. We aim to foster long-term relationships with our clients, ensuring we understand the way you work and then equipping you with the tools you need to reach your goals. Our comprehensive, proactive and all-inclusive IT services will have you working more efficiently than ever, and driving greater return on investment than you imagined possible.
 description: >-
-  BKTC is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  BKTC knows that downtime and other IT difficulties can be stressful enough, so we make your needs our first priority. First and foremost we are a consulting firm, and that means our specialty is in finding the right solutions that suit your business and help you to get it where it needs to be.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        We work with Apple Mac and Windows PC based solutions, as well as those for mobile and tablet devices including iPhone, iPad, Android and Windows Mobile. Whatever you throw at us, we’ll find a solution that lets you work on your business rather than the technology that powers it.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        There is so much choice among technology solutions that it can be difficult to see the forest from the trees. Our expert, vendor-agnostic consulting services equip you with the information you need to make informed decisions about the equipment that will help to propel your business grow to the next level.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        BKTC's natural business acumen allows us to go beyond the simple technology remit of most IT firms. We have the experience to be able to truly match the right technology solution to your company’s businesses processes, with great results for your bottom line.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        An interruption in server access, a loss of important data–even a poorly managed spam filter—costs small businesses time and money. Outsourcing technology management to IT professionals like BKTC insures against this lost productivity, at a price you can afford.
   heading: What we offer
   description: >
     BKTC is the ultimate spot for coffee lovers who want to learn about their
