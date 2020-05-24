@@ -1,19 +1,17 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About Us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### We're here to help you work smarter
+BitKing Technical Consulting was founded in 2020 to help small businesses in the Gulf Coast area get the most out of their business technology. We've helped a significant number of small- and medium-sized businesses in our area and throughout the country relieve their technology worries so that they can concentrate on growing their businesses and realizing their goals. With the rise of remote work necessities and software becoming more important with COVID-19, we rose to help small businesses meet those demands.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### BitKing Tech puts your focus back on your business with our:
+**>>Skilled technology experts** -experienced engineers who view themselves as an extension of your business  
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+**>>Comprehensive help and support** - Help is only a phone call away  
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Our goal is to provide technology solutions that cut costs and put your company in a position to prosper.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+_Find out how our experienced professionals can turn
+your technology investments into a powerful business advantage._

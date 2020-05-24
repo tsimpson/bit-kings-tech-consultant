@@ -17,7 +17,7 @@ intro:
         We work with Apple Mac and Windows PC based solutions, as well as those for mobile and tablet devices including iPhone, iPad, Android and Windows Mobile. Whatever you throw at us, we’ll find a solution that lets you work on your business rather than the technology that powers it.
     - image: /img/business-agnostic.jpg
       text: >
-        There is so much choice among technology solutions that it can be difficult to see the forest from the trees. Our expert, vendor-agnostic consulting services equip you with the information you need to make informed decisions about the equipment that will help to propel your business grow to the next level.
+        There is so much choice among technology solutions that it can be difficult to see the forest from the trees. Our expert, vendor-agnostic consulting services equip you with the information you need to make informed decisions about the equipment that will help to propel your business growth to the next level.
     - image: /img/tech-choices.jpg 
       text: >
         BKTC's natural business acumen allows us to go beyond the simple technology remit of most IT firms. We have the experience to be able to truly match the right technology solution to your company’s businesses processes, with great results for your bottom line.
