@@ -54,7 +54,7 @@ testimonials:
   - author: Sherry Berminn
     quote: >-
       BKTC is the place to go if you need help with your small business to set up technology you aren't used to using. They made the process easy and laid out a plan for us for future use.
-full_image: /img/products-full-width.jpg
+full_image: /img/products-full-width.webp
 pricing:
   heading: Get in touch
   description: >-
