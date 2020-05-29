@@ -56,31 +56,33 @@ testimonials:
       BKTC is the place to go if you need help with your small business to set up technology you aren't used to using. They made the process easy and laid out a plan for us for future use.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Get in touch
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    For our select group of clients we become a virtual extension of their businesses, helping them develop and maintain a technology strategy that aligns with their business needs and goals.
+
+    With our basic plans, we have ways to benefit any budget, any time.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the new business, just trying to get their tech stack started.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Free initial consultation
+        - Tech stack research and planning
+        - Tool setup, onboarding and training
+        - Retainer options offered monthly and yearly
+      plan: Basic
+      price: '1000'
+    - description: Great for solid businesses needing some extra guidance or fresh eyes
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Everything in the Basic Package
+        - Priority support
+        - Continued support for first 3 months
+        - Retainer options offered monthly and yearly with 15% discount
+      plan: Pro
+      price: '3500'
+    - description: Only need a consultation, or some strategic planning assistance? Try our custom plan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Free initial consultation
+        - Any combination of options from Basic or Pro package
+        - Retainer options based on your needs
       plan: Custom
       price: '??'
 ---
