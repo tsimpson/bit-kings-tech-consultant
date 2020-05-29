@@ -18,20 +18,16 @@ intro:
       text: >
         We offer a small, but carefully curated selection of software and
         tools for every situation and business need. No matter if you have been running your businesses for a while or just got started, you’ll find a tech stack to fall in love with through our guidance.
-    - image: /img/tutorials.png
+    - image: /img/support.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Start a new business but don't know what tools to use? Invested in new tools already but feel unsure about how well you use them? Don't worry, we’re here
+        to help. You can schedule a custom 1-on-1 consultation with our technical consultants
+        to learn anything you want to know about tools you have already, or what tools you should use and how to use them.
+        Email us for details.
+    - image: /img/tech-choices.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe that technology has the power to bring people together.
+        That’s why we decided to invest our time doing the research and planning for small businesses in particular, to improve their work flow and connectivity with employees and customers alike.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
