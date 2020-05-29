@@ -69,7 +69,7 @@ pricing:
         - Tool setup, onboarding and training
         - Retainer options offered monthly and yearly
       plan: Basic
-      price: '1000'
+      price: '1500'
     - description: Great for solid businesses needing some extra guidance or fresh eyes
       items:
         - Everything in the Basic Package
