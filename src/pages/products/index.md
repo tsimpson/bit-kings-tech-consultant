@@ -37,28 +37,23 @@ intro:
 main:
   heading: Business Process Consulting
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    When it comes to the technology you need to run your business, it's hard to make sense of all the options. BitKing Technical Consulting does more than just provide technology infrastructure solutions - we are part IT consulting and part small business consulting firm. We solve real business challenges using technology as a tool.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: 
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: 
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: 
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Jim Calfront
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Starting my new business, I wasn't sure what tools I should use to keep track of clients. BKTC not only helped me pick what to use, but set it up and trained my staff on how to optimize the tools we set up.
+  - author: Sherry Berminn
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      BKTC is the place to go if you need help with your small business to set up technology you aren't used to using. They made the process easy and laid out a plan for us for future use.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
