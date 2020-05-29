@@ -1,34 +1,37 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: '3 Hacker types you need to know about'
+date: 2020-01-04T15:04:10.000Z
 featuredpost: true
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  It's important to know the various types of hackers out there to help distinguish good and back actors.
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+What do you call someone who hunts for security gaps in computer hardware and software? A hacker, right? What about someone who executes a vulnerability test and presents their findings to software vendors to help them improve the quality of their products? There is more than one type of hacker, and understanding the difference is important.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## A complicated history
+In the 1950s, the term “hacker” was vaguely defined. As computers became more accessible, the word was used to describe someone who explored the details and limits of computer technology by testing them from a variety of angles.
 
-## A little history
+But by the 1980s, hackers became associated with teenagers who were caught breaking into government computer systems — partially because that is what they called themselves, and partially because the word hacker has an inherently aggressive ring to it.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Today, several of those pioneering hackers run multimillion-dollar cybersecurity consulting businesses, while countless others run amok online, hoping to make a quick buck off of hapless victims.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+## “Black hat” hackers
+Closer to the definition that most people outside the IT world know and use, black hat hackers create programs and campaigns to commit all sorts of malicious acts. Crimes such as identity theft, credit card fraud, and extortion are for their sole benefit, but they can also work under the auspices of a corporation or a state and commit espionage and cyberterrorism.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+During the 1990s, Kevin Mitnick was a prime example of a black hat hacker. Mitnick went on a two-and-half-year hacking spree wherein he committed wire fraud and stole millions of dollars of data from telecom companies and the National Defense warning system.
 
-## What you need to know before trying
+After paying his debt to society by spending five years in prison, he set up his own eponymous cybersecurity firm and became its CEO and Chief White Hat Hacker.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+## “White hat” hackers
+Sometimes referred to as ethical hackers or plain old network security specialists, these are the good guys. Whether it’s selling what they find to hardware and software vendors in “bug bounty” programs or working as full-time technicians, white hat hackers are just interested in making an honest buck.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Linus Torvalds is a great example of a white hat hacker. After years of experimenting with the Sinclair QDOS operating system on his Sinclair QL, he released Linux, a secure open-source operating system.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+## “Gray hat” hackers
+Whether someone is a security specialist or a cybercriminal, the majority of their work is usually conducted over the internet. This anonymity affords them opportunities to try their hands at both white hat and black hat hacking.
+
+For example, Marcus Hutchins is a known gray hat hacker. He’s most famous for testing the WannaCry ransomware until he found a way to stop it.
+
+During the day, Hutchins works for the Kryptos Logic cybersecurity firm, but the US government believes he spent his free time creating the Kronos banking malware. He was arrested in 2017 and branded a “gray hat” hacker.

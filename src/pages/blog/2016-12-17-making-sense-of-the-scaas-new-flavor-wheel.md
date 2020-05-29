@@ -1,33 +1,30 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Why dashboards are vital to your business
+date: 2019-07-17T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/dashboard.jpg
+description: As visual creatures, we interpret visual data better than written words. Dashboards can help with this.
 tags:
-  - flavor
-  - tasting
+
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+People are visual creatures, which means we interpret visual data better than written words. That’s why most businesses turn to dashboards as an intelligence tool to present data in a way that’s easy to understand. Dashboards have become a critical part of the analytics process. Here are some common uses of dashboards across various business functions.
 
-## What the updates mean to you
+## Marketing insights
+An organization's marketing department typically analyzes a significant amount of data from various channels. Whether the purpose is to forecast monthly sales, predict trends, or build marketing strategies, marketing officers use dashboards to compare, sort, and analyze raw data to churn out meaningful information presented in an easy-to-understand format. This allows key decision makers to easily call the shots using that information.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+## Tracking sales opportunities
+Sales dashboards are perfect for tracking products and services. They help you identify sales opportunities by monitoring top-selling products and comparing the growth in revenue on a periodical basis. They sync to your raw data, so your charts are always up to date, thus eliminating the need to spend hours manually entering and preparing sales reports and charts.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+## Social media management
+Social media management is more than just posting regularly on your business’s social media accounts. In most cases, your social media platform’s default dashboard doesn’t give you deep insight into your social media campaigns. What’s more, managing multiple social media accounts can quickly become a cumbersome process since you have to use several login credentials. Instead, you can manage your accounts all at once through a comprehensive social media dashboard, saving you valuable time and effort.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+## Financial reports
+Presenting financial data is so complex that it often leads to misinterpretation and misunderstanding of critical data. Dashboards make creating financial reports much easier, and financial analysts can take advantage of dashboards to display sensitive data in a comprehensible graphical format — be it customer invoices, progress toward revenue goals, or business expenses.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+## Project collaboration
+Businesses of all sizes require their employees to collaborate on projects, whether on-site or online. Project supervisors need to get their teams together to give them project requirements, deadlines, and responsibilities, and to get progress updates. With the help of project collaboration dashboards, members will see the complete workflow, allowing for a more efficient and collaborative working environment.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Dashboards eliminate the complications of presenting complex business data and make your team more efficient. If you’re looking to implement dashboards and other cutting-edge tools to make your job easier, contact our consultants today.
