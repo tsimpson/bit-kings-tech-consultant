@@ -70,19 +70,18 @@ pricing:
         - Retainer options offered monthly and yearly
       plan: Basic
       price: '1500'
-    - description: Great for solid businesses needing some extra guidance or fresh eyes
-      items:
-        - Everything in the Basic Package
-        - Priority support
-        - Continued support for first 3 months
-        - Retainer options offered monthly and yearly with 15% discount
-      plan: Pro
-      price: '3500'
     - description: Only need a consultation, or some strategic planning assistance? Try our custom plan
       items:
         - Free initial consultation
-        - Any combination of options from Basic or Pro package
-        - Retainer options based on your needs
+        - During consultation we will work together to discuss what will best benefit your company at this time
+        - Retainer options offered monthly and yearly with 15% discount
       plan: Custom
-      price: '??'
+      price: 'Varies by need'
+    - description: Have a website you want rebuilt? Don't have a website yet? Let's talk about how we can help you!
+      items:
+        - Free initial consultation
+        - Custom design plans with performance and SEO in mind
+        - Retainer options based on your needs
+      plan: Custom Website
+      price: 'Varies by need'
 ---
